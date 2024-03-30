@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\bin\Debug\net7.0\attest_C#.exe
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\bin\Debug\net7.0\attest_C#.deps.json
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\bin\Debug\net7.0\attest_C#.runtimeconfig.json
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\bin\Debug\net7.0\attest_C#.dll
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\bin\Debug\net7.0\attest_C#.pdb
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\obj\Debug\net7.0\attest_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\obj\Debug\net7.0\attest_C#.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\obj\Debug\net7.0\attest_C#.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\obj\Debug\net7.0\attest_C#.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\obj\Debug\net7.0\attest_C#.dll
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\obj\Debug\net7.0\refint\attest_C#.dll
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\obj\Debug\net7.0\attest_C#.pdb
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\obj\Debug\net7.0\attest_C#.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Cшарп\attestation\attest_C#\obj\Debug\net7.0\ref\attest_C#.dll
